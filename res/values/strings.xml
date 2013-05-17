@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimeTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Daily</string>
+    <string name="title_section2">Monthly</string>
+    <string name="title_section3">Notes</string>
+	<string name="notes_button_text">Submit</string>
+	<string name="notes_hint">Say something to you today\'s self:)</string>
+	<string name="track_dialog_msg">Are you ready to track your time?</string>
+	<string name="track_dialog_btn_ok">Let\'s rock!</string>
+	<string name="track_dialog_btn_no">I don\'t want :( Bye!</string>
+	<string name="action_startservice">Start Service</string>
+	<string name="action_stopservice">Stop Service</string>
+</resources>
